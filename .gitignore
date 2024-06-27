@@ -1,1 +1,15 @@
-node_modules
+*.DS_Store  
+node_modules 
+*.log 
+idea/ 
+*.local 
+.DS_Store 
+dist 
+.cache 
+.idea 
+.history
+logs 
+&-debug.log 
+*-error.log
+.eslintcache
+tmp
